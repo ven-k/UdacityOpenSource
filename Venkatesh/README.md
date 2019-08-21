@@ -2,4 +2,4 @@ Project Bahubhashi (‘polyglot’ in Kannada) aims to translate the tone or the
 
 Slack handle: @Venkatesh
 
-Please click the link for the complete description: https://docs.google.com/document/d/1wus6WMTBubuWcqzOM_kdtPrHOiFMPdmwaC9jQzmIWjs/edit?usp=sharing
+
